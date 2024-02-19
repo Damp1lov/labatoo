@@ -1,0 +1,10 @@
+^C:\USERS\MACUSER\LABA2\BUILD\CMAKEFILES\540BA49F2B72B95589819DF5C0A63ECF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/macuser/laba2 -BC:/Users/macuser/laba2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/macuser/laba2/build/res2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
