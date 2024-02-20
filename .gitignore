@@ -1,1 +1,4 @@
+*.jpg
+!CMakeLists.txt
+!main.cpp
 /build
