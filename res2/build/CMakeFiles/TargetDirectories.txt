@@ -1,3 +1,0 @@
-C:/Users/macuser/laba2/build/CMakeFiles/res2.dir
-C:/Users/macuser/laba2/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/macuser/laba2/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,4 @@
+*.jpg
+CMake2/*
+!CMake2/2.cpp
+!CMake2/CMakeLists.txt
