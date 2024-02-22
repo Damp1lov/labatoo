@@ -1,0 +1,3 @@
+C:/Users/macuser/laba2/NewRes1/CMakeFiles/res1.dir
+C:/Users/macuser/laba2/NewRes1/CMakeFiles/ALL_BUILD.dir
+C:/Users/macuser/laba2/NewRes1/CMakeFiles/ZERO_CHECK.dir
